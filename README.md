@@ -7,4 +7,4 @@ Supplementary materials for the GI 2023 paper:
 ## Contents
 * Scatterpixel_Schematic.pdf shows the circuit design of a scatterpixel
 * Scatterpixel_Schematic.sch is the kicad schematic design file of a scatterpixel
-* gerber files to fabricate the scatterpixel PCB
+* gerber_scatterpixel.zip contains the gerber files to fabricate a scatterpixel.
